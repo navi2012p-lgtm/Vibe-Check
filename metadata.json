@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Vibe Check ",
+  "description": "A unique, playful music player featuring dynamic audio visualization, AI-curated playlists, and a custom immersive UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
